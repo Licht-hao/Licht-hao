@@ -12,7 +12,7 @@ Last updated: 2025.11.27
 
 In the fields of Environmental Science & Ecology, Plant Sciences, and Medicine, **12** SCI papers, including **5** first/corresponding author papers.
 
-#: Equal contribution; *: Corresponding Author; 
+#: Equal contribution; *: Corresponding Author
 
 - Xinyuan Xu, Shasha Zhang, Dake Cao, **Linhao Zong**, Dong Chen, Ying Peng, Ping Jin, Fei Ma, Xiaowei Zhang, Miao Guan*. Lipid metabolism disruption as a conserved early response to Benzophenone-1: Pathway sensitivity profiling via dose-dependent yeast functional genomics platform. **Environmental Pollution**, 2025.11. (IF: 7.3) [[Paper](https://doi.org/10.1016/j.envpol.2025.127439)]
 - Zhichao Wang#, **Linhao Zong#**, Qiqi Cai, Yinjie Fu, Zhiping Gao*, Guoxiang Chen*. Elucidating the Mechanistic Role of Exogenous Melatonin in Salt Stress Tolerance of Maize *(Zea mays L.)* Seedlings: An Integrated Physiological, Metabolomic, and Proteomic Profiling Analysis. **Plants**, 2025.10. (IF: 4.1) [[Paper](https://doi.org/10.3390/plants14203129)]
