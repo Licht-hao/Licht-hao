@@ -10,7 +10,7 @@
 
 Last updated: 2025.11.27
 
-In the fields of Environmental Science & Ecology, Plant Sciences, and Medicine, **12** SCI papers, including **5** first/corresponding author papers.
+In the fields of Environmental Science & Ecology, Plant Science, and Medicine, **12** SCI papers, including **5** first/corresponding author papers.
 
 #: Equal contribution; *: Corresponding Author
 
