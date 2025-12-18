@@ -8,12 +8,11 @@
 
 ## ⭐ Publications
 
-Last updated: 2025.11.27
-
-In the fields of Environmental Science & Ecology, Biology, and Medicine, **12** SCI papers, including **5** first/corresponding author papers.
+In the fields of Environmental Science & Ecology, Biology, and Medicine, **13** SCI papers, including **6** first/corresponding author papers.
 
 #: Equal contribution; *: Corresponding Author
 
+- Lei Wang, **Linhao Zong\***, Yuanyuan Wang, Yanting Jiang, Miao Guan*. Prognostic role of stress granule-related Gene signatures in pancreatic ductal adenocarcinoma: insights from 101-combination machine learning and single-cell sequencing. **International Journal of Surgery**, 2025.12. **(IF: 10.1)** [[Paper](https://doi.org/10.1097/JS9.0000000000004458)]
 - Xinyuan Xu, Shasha Zhang, Dake Cao, **Linhao Zong**, Dong Chen, Ying Peng, Ping Jin, Fei Ma, Xiaowei Zhang, Miao Guan*. Lipid metabolism disruption as a conserved early response to Benzophenone-1: Pathway sensitivity profiling via dose-dependent yeast functional genomics platform. **Environmental Pollution**, 2025.11. **(IF: 7.3)** [[Paper](https://doi.org/10.1016/j.envpol.2025.127439)]
 - Zhichao Wang#, **Linhao Zong#**, Qiqi Cai, Yinjie Fu, Zhiping Gao*, Guoxiang Chen*. Elucidating the Mechanistic Role of Exogenous Melatonin in Salt Stress Tolerance of Maize *(Zea mays L.)* Seedlings: An Integrated Physiological, Metabolomic, and Proteomic Profiling Analysis. **Plants**, 2025.10. **(IF: 4.1)** [[Paper](https://doi.org/10.3390/plants14203129)]
 - Zhichao Wang, Yinjie Fu, Qiqi Cai, **Linhao Zong\***. Deciphering pathogenic mechanisms of BDCPP Exposure in endometrial cancer progression via an integrated approach combining network toxicology, machine learning, and molecular docking. **International Journal of Surgery**, 2025.09. **(IF: 10.1)** [[Paper](https://doi.org/10.1097/js9.0000000000003552)]
