@@ -1,12 +1,4 @@
-# 👋 Hi, I’m Licht (Linhao Zong)!
-
-🌱 I'm interested in **Bioinformatics** and **Biostatistics**.
-
-🛠️ Top skills: **Multi-omics Data Analysis**, **Network Analysis**, **Machine Learning**, **Data Visualization**
-
-🤝 Always open to collaboration and new ideas!
-
-## ⭐ Publications
+# ⭐ Publications
 
 In the fields of Environmental Science & Ecology, Biology, and Medicine, **13** SCI papers, including **6** first/corresponding author papers.
 
