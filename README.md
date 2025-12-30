@@ -1,6 +1,8 @@
 # ⭐ Publications
 
-In the fields of Environmental Science & Ecology, Biology, and Medicine, **13** SCI papers, including **6** first/corresponding author papers.
+🌱 In the fields of Environmental Science & Ecology, Biology, and Medicine: **13** SCI papers, including **6** first/corresponding author papers.
+
+🛠️ Key words: **Bioinformatics**; **Multi-omics Data Analysis**; **Network Analysis**; **Machine Learning**.
 
 #: Equal contribution; *: Corresponding Author
 
